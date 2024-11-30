@@ -60,7 +60,7 @@ public class CardGame {
 		
 		System.out.println();
 		System.out.println("the deck");
-		cardList.displayList();
+		cardList.displayList(); 
 
 	}//end main
 
