@@ -85,8 +85,10 @@ class LinkedLists
 	{
 		LinkList theList = new LinkList();  // make list
 
-		theList.insertFirst(new Card("heart", "ace", 11,"ah.gif"));      // insert 4 items
+		theList.insertFirst(new Card("Heart", "ace", 11,"ah.gif"));      // insert 4 items
 		theList.insertFirst(new Card("Spade", "ace", 11,"as.gif"));
+		theList.insertFirst(new Card("Diamond", "ace", 11,"ad.gif"));
+		theList.insertFirst(new Card("Club", "ace", 11,"ac.gif"));
 		//theList.insertFirst(66, 6.99);
 		//theList.insertFirst(88, 8.99);
 
