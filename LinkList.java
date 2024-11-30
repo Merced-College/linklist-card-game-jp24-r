@@ -79,7 +79,7 @@ public class LinkList
 
 }  // end class LinkList
 ////////////////////////////////////////////////////////////////
-/*class LinkedLists
+class LinkedLists
 {
 	public static void main(String[] args)
 	{
